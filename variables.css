@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #0588fa;
+  --secondary-color: #cddc38;
+  --background-color: #fefff7;
+  --background-second-color: #ebecdb;
+  --background-dark-color: #12111b;
+  --nav-dark-color: #161622;
+  --dark-text-color: #a7a9be;
+  --dark-header-color: #fffffe;
+  --sun-color: #f9d71c;
+  --sun-color-hover: #e1c41b;
+  --moon-color: #f9f9f9;
+  --moon-color-hover: #e1e1e1;
+}
