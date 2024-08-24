@@ -4,7 +4,11 @@ This app allows users to toggle between light and dark themes. The theme switche
 
 User preference is stored in localStorage and matches the system setting as demonstrated below! 
 
-![](demo.gif)
+
+
+https://github.com/user-attachments/assets/6d38c2d4-9d70-4be9-966f-4fc57876c50f
+
+
 
 # Prerequisites
 Web browser that supports CSS variables and the :is() pseudo-class function.
