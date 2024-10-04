@@ -18,7 +18,7 @@ Web browser that supports CSS variables and the :is() pseudo-class function.
 git clone the repository to your local machine:
 
 ```
-git clone https://github.com/username/project.git
+git clone https://github.com/p1kus/theme-switcher.git
 ```
 
 # License
